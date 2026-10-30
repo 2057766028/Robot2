@@ -1,0 +1,28 @@
+# Keil build output
+USER/Objects/
+USER/Listings/
+USER/DebugConfig/
+USER/RTE/
+USER/*.uvguix.*
+USER/pro.uvoptx
+
+# Compiler and debugger artifacts
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.lnp
+*.dep
+*.htm
+*.bak
+*.Bak
+*.scvd
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
